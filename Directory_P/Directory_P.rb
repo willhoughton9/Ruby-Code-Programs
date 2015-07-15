@@ -25,6 +25,7 @@ def dummy_death
     	end 
   	end
 end
+puts 'Honor'
  
 if gets.chomp.downcase == "/fire"
 	
